@@ -1,1 +1,1 @@
-<% response.sendRedirect(request.getContextPath()+"/customer/list"); %>
+<% response.sendRedirect(request.getContextPath()+"/showLoginPage"); %>
